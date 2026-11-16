@@ -1,0 +1,11 @@
+{
+  "name": "Unico",
+  "fullName": "Unico ERP",
+  "tagline": "L'ERP des transporteurs et transitaires",
+  "description": "Voyages, flotte, chauffeurs, dépenses de route et factures dans un seul outil, pensé pour le corridor Lomé-Sahel. Fonctionne hors réseau.",
+  "appId": "com.unico.erp",
+  "scheme": "unico",
+  "slug": "unico-erp",
+  "primaryColor": "#2563eb",
+  "whatsapp": "22897972840"
+}
